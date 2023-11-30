@@ -77,6 +77,7 @@ You can add options on the initial Sitemapper object when instantiating it.
 + `retries`: (Number) - Sets the maximum number of retries to attempt in case of an error response (e.g. 404 or Timeout). Default: 0
 + `rejectUnauthorized`: (Boolean) - If true, it will throw on invalid certificates, such as expired or self-signed ones. Default: True
 + `lastmod`: (Number) - Timestamp of the minimum lastmod value allowed for returned urls
++ `proxyAgent`: (HttpProxyAgent|HttpsProxyAgent) - instance of npm "hpagent" HttpProxyAgent or HttpsProxyAgent to be passed to npm "got"
 
 ```javascript
 
