@@ -18,6 +18,8 @@
 [![release](https://img.shields.io/github/release/seantomburke/sitemapper.svg)](https://github.com/seantomburke/sitemapper/releases/latest)
 [![scrutinizer](https://img.shields.io/scrutinizer/quality/g/seantomburke/sitemapper.svg?style=flat-square)](https://scrutinizer-ci.com/g/seantomburke/sitemapper/)
 
+# NOTE: This is a fork of the original sitemapper package with proxy support added by [chantorak](https://github.com/chantorak). The original package can be found [here](https://www.npmjs.com/package/sitemapper)
+
 Parse through a sitemaps xml to get all the urls for your crawler.
 ## Version 2
 

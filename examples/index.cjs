@@ -1,4 +1,4 @@
-import Sitemapper from '../assets/sitemapper';
+import Sitemapper from '../src';
 
 // URL to be crawled
 const exampleURL = 'https://www.walmart.com/sitemap_topic.xml';
