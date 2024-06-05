@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 4.0.1 (2024-06-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Convert `sitemapper.js` to TypeScript and add type definitions. Packages upgraded, Updated tests
+* Convert `sitemapper.js` to TypeScript and add type definitions. Packages upgraded, Updated tests
+
+### Features
+
+* Convert `sitemapper.js` to TypeScript and add type definitions. Packages upgraded, Updated tests ([dba2c4b](https://github.com/yeskiy/sitemapper/commit/dba2c4b7ea2426340de50b6a91c2365f0ca2064e))
+* Convert `sitemapper.js` to TypeScript and add type definitions. Packages upgraded, Updated tests ([bca7632](https://github.com/yeskiy/sitemapper/commit/bca7632e57a2729bfbcab1558ebadea3edba8663))
+* support gzip sitemaps ([#73](https://github.com/yeskiy/sitemapper/issues/73)) ([e5b647e](https://github.com/yeskiy/sitemapper/commit/e5b647e647144ae2940e3c15a1847b80de4311b4))
+* Update README with changes to `sitemapper` package ([7ddd3a8](https://github.com/yeskiy/sitemapper/commit/7ddd3a87ae2abdabd668ff8000b30eafab3ac503))
+
+
+### Bug Fixes
+
+* Use is-gzip to determine if response is gzipped ([#93](https://github.com/yeskiy/sitemapper/issues/93)) ([bce0974](https://github.com/yeskiy/sitemapper/commit/bce0974e1851515cf440d181332dfef02018eb13))
