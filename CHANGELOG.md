@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.2](https://github.com/yeskiy/sitemapper/compare/v4.0.1...v4.0.2) (2024-06-05)
+
+
+### Bug Fixes
+
+* upgrade Badges and scripts ([e3ef0c5](https://github.com/yeskiy/sitemapper/commit/e3ef0c5d3093845bf2296fc68f50856b06a2e4ca))
+
 ### 4.0.1 (2024-06-05)
 
 
