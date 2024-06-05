@@ -32,6 +32,9 @@
         "default": "./dist/esm/index.js"
     },
     "scripts": {
+        "release": "npx standard-version",
+        "release:jdi": "npm run release && npm run release:doPush",
+        "release:doPush": "git push --follow-tags origin master",
         "prepublishOnly": "npm run build:clean",
         "build": "npm run build:cjs && npm run build:esm && npm run build:types",
         "build:clean": "node scripts/clean.cjs && npm run build",

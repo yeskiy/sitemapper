@@ -1,7 +1,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=yeskiy_sitemapper&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=yeskiy_sitemapper)
 [![Test](https://github.com/yeskiy/sitemapper/actions/workflows/test.yml/badge.svg?branch=master&event=push)](https://github.com/yeskiy/sitemapper/actions/workflows/test.yml)
-[![Monthly Downloads](https://img.shields.io/npm/dm/sitemapper.svg)](https://www.npmjs.com/package/sitemapper)
-[![npm version](https://badge.fury.io/js/sitemapper.svg)](https://badge.fury.io/js/sitemapper)
+[![NPM Version](https://img.shields.io/npm/v/%40yeskiy%2Fsitemapper)](https://www.npmjs.com/package/@yeskiy/sitemapper/access)
+[![NPM Downloads](https://img.shields.io/npm/dm/%40yeskiy%2Fsitemapper%2Faccess)](https://www.npmjs.com/package/@yeskiy/sitemapper/access)
 [![license](https://img.shields.io/github/license/yeskiy/sitemapper.svg)](https://github.com/yeskiy/sitemapper/blob/main/LICENSE)
 # Sitemap-parser
 ## NOTE: This is a fork of the original sitemapper package with full migration to `ESM` and `ts`. The original package can be found [here](https://www.npmjs.com/package/sitemapper)
