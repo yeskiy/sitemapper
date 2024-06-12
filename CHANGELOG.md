@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/yeskiy/sitemapper/compare/v4.0.2...v5.0.0) (2024-06-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add `type` in `package.json`
+
+### Bug Fixes
+
+* Add `type` in `package.json` ([372be55](https://github.com/yeskiy/sitemapper/commit/372be55de08dac7dbd04366c13f2423eb2256ebe))
+
 ### [4.0.2](https://github.com/yeskiy/sitemapper/compare/v4.0.1...v4.0.2) (2024-06-05)
 
 
