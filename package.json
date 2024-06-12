@@ -2,6 +2,7 @@
     "name": "@yeskiy/sitemapper",
     "version": "4.0.2",
     "description": "Parser for XML Sitemaps to be used with Robots.txt and web crawlers",
+    "type": "module",
     "keywords": [
         "parse",
         "sitemap",
